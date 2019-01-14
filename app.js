@@ -1,5 +1,5 @@
 const sum = () => {
-    return 10+10
+    return 20
 }
 
 module.exports = {
