@@ -14,7 +14,7 @@ describe('user', () => {
 })
 
 describe('sum', () => {
-    it('should return number 3', () => {
-        assert.equal(app.sum(), 2)
+    it('should return number 20', () => {
+        assert.equal(app.sum(), 20)
     })
 })
